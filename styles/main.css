@@ -271,6 +271,7 @@ p.copy-one {
   p.copy-two {
     margin-top: 0;
     margin: 10px;
+    margin-top: 20px;
   }
 
   .bottom-half {
@@ -301,6 +302,7 @@ p.copy-one {
 
   .social-media {
     margin-top: 10px;
+    width: 100%;
   }
 }
 
