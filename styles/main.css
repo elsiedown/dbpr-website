@@ -265,7 +265,7 @@ p.copy-one {
 
 
   .main-content {
-    margin-bottom: 80px;
+    margin-bottom: 10px;
   }
   .copy-one, .copy-two {
     font-size: 18px;
@@ -296,7 +296,7 @@ p.copy-one {
   footer {
     text-align: center;
     /* margin-top: 70px; */
-    /* position: static; */
+    position: static;
   }
 
   .contact-links {
