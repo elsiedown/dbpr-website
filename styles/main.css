@@ -275,14 +275,14 @@ p.copy-one {
   }
 
   .bottom-half {
-    margin-top: 25px;
+    margin-top: 10px;
   }
 
   img {
     height: 180px;
     width: 130px;
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 
   }
 
@@ -301,7 +301,7 @@ p.copy-one {
   }
 
   .social-media {
-    margin-top: 10px;
+    margin-top: 60px;
     width: 100%;
   }
 }
