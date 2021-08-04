@@ -147,7 +147,7 @@ a:visited {
 .social-media {
   width: 30%;
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   justify-content: center;
 }
 
