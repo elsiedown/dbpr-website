@@ -98,7 +98,7 @@ img {
 
 footer {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   position: absolute;
   margin-bottom: 15px;
   bottom:10px;
@@ -271,7 +271,7 @@ p.copy-one {
   p.copy-two {
     margin-top: 0;
     margin: 10px;
-    margin-top: 20px;
+    margin-top: 40px;
   }
 
   .bottom-half {
