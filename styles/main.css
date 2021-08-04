@@ -98,7 +98,7 @@ img {
 
 footer {
   display: flex;
-  /* align-items: center; */
+  align-items: center;
   position: absolute;
   margin-bottom: 15px;
   bottom:10px;
