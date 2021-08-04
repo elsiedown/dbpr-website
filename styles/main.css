@@ -104,7 +104,7 @@ footer {
   margin-bottom: 15px;
   bottom:10px;
   width: 90%;
-  height:60px;   
+  min-height:60px;   
 }
 
 .contact-details {
