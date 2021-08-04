@@ -104,6 +104,8 @@ footer {
   bottom:10px;
   width: 90%;
   height:60px;   
+  flex: 0 0 50px;/*or just height:50px;*/
+  margin-top: auto;
 }
 
 .contact-details {
@@ -147,7 +149,6 @@ a:visited {
 .social-media {
   width: 30%;
   display: flex;
-  align-items: center;
   justify-content: center;
 }
 
