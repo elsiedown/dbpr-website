@@ -16,14 +16,12 @@ body, html {
   margin: 0;
   height: 100%;
   width: 100%;
-  overflow-x: hidden;
 }
 
 .wrapper {
   min-height: 760px;
   position: relative;
   display: flex;
-  margin: 0 auto;
   justify-content: center;
 }
 
