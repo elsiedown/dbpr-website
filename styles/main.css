@@ -278,7 +278,7 @@ p.copy-one {
   p.copy-two {
     margin-top: 0;
     margin: 10px;
-    margin-top: 40px;
+    margin-top: 50px;
   }
 
   .bottom-half {
@@ -321,6 +321,7 @@ p.copy-one {
 
 p.copy-two {
   margin: 20px;
+  margin-top: 30px;
 }
 
 }
@@ -332,6 +333,7 @@ p.copy-two {
   
   p.copy-two {
     margin: 10px;
+    margin-top: 30px;
   }
   
   }
@@ -345,7 +347,7 @@ p.copy-two {
 
    p.copy-two {
      font-size: 17px;
-     margin-top: 20px;
+     margin-top: 30px;
    }
 
    img {
