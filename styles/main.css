@@ -21,8 +21,8 @@ body, html {
 
 .wrapper {
   min-height: 760px;
-  position: relative;
-  display: flex;
+  /* position: relative;
+  display: flex; */
   margin: 0 auto;
   justify-content: center;
 }
@@ -112,7 +112,7 @@ img {
 footer {
   display: flex;
   align-items: center;
-  position: absolute;
+  /* position: absolute; */
   margin-bottom: 15px;
   bottom:10px;
   width: 90%;
