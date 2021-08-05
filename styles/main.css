@@ -278,7 +278,7 @@ p.copy-one {
   p.copy-two {
     margin-top: 0;
     margin: 10px;
-    margin-top: 50px;
+    margin-top: 0px;
   }
 
   .bottom-half {
@@ -296,7 +296,6 @@ p.copy-one {
   footer {
     text-align: center;
     /* margin-top: 70px; */
-    position: static;
   }
 
   .contact-links {
@@ -320,8 +319,7 @@ p.copy-one {
 }
 
 p.copy-two {
-  margin: 20px;
-  margin-top: 30px;
+  margin: 40px;
 }
 
 }
@@ -333,7 +331,7 @@ p.copy-two {
   
   p.copy-two {
     margin: 10px;
-    margin-top: 30px;
+    margin-top: 40px;
   }
   
   }
@@ -347,7 +345,7 @@ p.copy-two {
 
    p.copy-two {
      font-size: 17px;
-     margin-top: 30px;
+     margin-top: 40px;
    }
 
    img {
