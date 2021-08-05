@@ -262,7 +262,7 @@ p.copy-one {
   .wrapper {
     position: static;
     display: block;
-    height: 100vh;
+    min-height: 100vh;
   }
 
 
@@ -298,7 +298,6 @@ p.copy-one {
   footer {
     text-align: center;
     position: static;
-    margin-bottom: 0;
     /* margin-top: 70px; */
   }
 
