@@ -296,7 +296,7 @@ p.copy-one {
   footer {
     text-align: center;
     /* margin-top: 70px; */
-    position: block;
+    position: static;
   }
 
   .contact-links {
