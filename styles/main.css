@@ -262,6 +262,7 @@ p.copy-one {
   .wrapper {
     position: static;
     display: block;
+    min-height: 100vh;
   }
 
 
